@@ -1,0 +1,15 @@
+{
+  "name": "nodeanddynamo",
+  "version": "1.0.0",
+  "description": "dynamodb local integration with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarmad",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.370.0",
+    "aws-sdk": "^2.1420.0"
+  }
+}
